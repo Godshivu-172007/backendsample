@@ -21,4 +21,5 @@ app.get('/game', (req , res) => {
 
 app.listen(process.env.PORT, () => {
   console.log(`Example app listening on port ${port}`)
+  console.log('✨congrulation for start new apike jounary✨✅😎')
 })
